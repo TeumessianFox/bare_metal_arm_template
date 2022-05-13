@@ -1,2 +1,17 @@
-# bare_metal_arm_template
-Bare-Metal ARM cross-compiler template
+# Bare-Metal ARM cross-compiler template
+
+## Usage
+Create binary:
+```
+make
+```
+
+Create dump:
+```
+make dump
+```
+
+Clean-up:
+```
+make clean
+```
